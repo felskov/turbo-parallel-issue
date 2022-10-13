@@ -1,0 +1,11 @@
+{
+  "name": "turbo-parallel-issue",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "turbo": "^1.5.6"
+  }
+}

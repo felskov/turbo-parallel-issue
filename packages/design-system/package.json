@@ -1,0 +1,10 @@
+{
+  "name": "design-system",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "echo 'run from design-system'"
+  },
+  "dependencies": {
+    "utils": "*"
+  }
+}
